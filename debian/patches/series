@@ -30,3 +30,5 @@ local.disable-detection-of-vax-coff-executables.patch
 local.disable-algol68-detection.patch
 local.extra-magic.patch
 local.manpage-seccomp-is-disabled.patch
+
+deepin-CVE-2019-18218.patch
