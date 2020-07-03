@@ -1,4 +1,4 @@
-file (1:5.35-4) unstable; urgency=medium
+file (1:5.35.1-1+dde) unstable; urgency=medium
 
   * Cherry-pick fix for JSON detection. Closes: 922874
 
